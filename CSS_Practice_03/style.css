@@ -1,0 +1,18 @@
+.box1{
+background: lightblue;
+pading: 20px;
+margin:20px;
+}
+.box2{
+background: lightgreen;
+pading: 10px;
+margin:20px;
+}
+
+.inline{
+display: block;
+background: pink;
+
+
+
+}
