@@ -1,0 +1,19 @@
+.btn1 {
+background: blue;
+color: white;
+padding: 10px;
+}
+
+.btn1:hover {
+background: red;
+}
+
+.btn2 {
+background: green;
+color: white;
+padding: 10px;
+}
+
+.btn2:hover {
+background: pink;
+}
